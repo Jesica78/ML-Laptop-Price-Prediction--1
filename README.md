@@ -6,3 +6,7 @@ A machine learning project that predicts laptop prices using Python, Scikit-lear
 This project aims to predict laptop prices based on their specifications such as RAM, processor, GPU, brand, and storage type.  
 It demonstrates skills in data preprocessing, feature engineering, model selection, and performance evaluation.
 
+### 🎯 Objective
+To build a machine learning model that can accurately predict laptop prices, helping users make informed purchasing decisions.
+
+
