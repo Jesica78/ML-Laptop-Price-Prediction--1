@@ -9,4 +9,8 @@ It demonstrates skills in data preprocessing, feature engineering, model selecti
 ### 🎯 Objective
 To build a machine learning model that can accurately predict laptop prices, helping users make informed purchasing decisions.
 
+### Dataset
+The dataset for this project was sourced from Kaggle
+
+
 
